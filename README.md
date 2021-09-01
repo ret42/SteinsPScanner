@@ -1,2 +1,2 @@
 # SteinsPScanner
-Simple Port Scanner in python 🌙
+Simple Port Scanner in python (very old project)
